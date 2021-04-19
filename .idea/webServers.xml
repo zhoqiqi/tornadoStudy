@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5c23a428-3f4d-47ea-907a-f08637c88dde" name="tornadoTestCon" url="http://172.16.1.128">
+        <fileTransfer rootFolder="/home/zhouqiqi/Desktop/python_test" accessType="SFTP" host="172.16.1.128" port="22" sshConfigId="e0911a00-244f-4144-aafd-b7d5ce684fbe" sshConfig="root@172.16.1.128:22 password">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" keepAliveTimeout="50000" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
